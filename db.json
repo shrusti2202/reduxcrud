@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "id": "1711096672663",
+      "name": "shrusti patel",
+      "email": "patel@gmail.com",
+      "password": "123",
+      "mobile": "9879917606",
+      "img": "https://img.freepik.com/free-photo/low-angle-businesswoman-posing-with-arms-crossed-outdoors_23-2148767034.jpg?t=st=1711096931~exp=1711100531~hmac=0b64a39d0da611f8f823906a924a6443110b371dc9847676ff704f7ea131f408&w=826"
+    },
+    {
+      "id": "1711096916690",
+      "name": "darshan patel",
+      "email": "dp@gmail.com",
+      "password": "123",
+      "mobile": "9925173455",
+      "img": "https://img.freepik.com/free-photo/front-view-lawyer-posing-outdoors_23-2148230837.jpg?t=st=1711096879~exp=1711100479~hmac=7dae079879ab98192ab833a039fee5653b427e880ec8181252c48d4ff43bb113&w=360"
+    }
+  ]
+}
